@@ -42,6 +42,7 @@ configs/dataset/data/
 ## Train
 
 ```shell
-python tools/train.py -c configs/rtdetr/rtdetr_r50vd_6x_coco.yml
+cd tools
+python train.py -c configs/rtdetr/rtdetr_r50vd_6x_coco.yml
 ```
 
