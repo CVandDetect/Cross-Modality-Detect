@@ -1,7 +1,7 @@
 # Cross-Modality-Detect
 
 ## Intro
-Official Code for [论文名称](论文网址).
+Code for Cross-modality Object Detection Based on DETR.
 
 the end-to-end Transformer-based cross-modality detectors
 
